@@ -31,7 +31,7 @@ description:           >
 tagline:               taking action for tomorrow
 
 # A list of keywords for your blog
-keywords:              [space, nigeria, lifestyle]
+keywords:              [space, nigeria, engineering, lifestyle]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -42,9 +42,9 @@ logo:                  /assets/img/logo.png
 author:
   # Used by `jekyll-feed`:
   name:                <Husseinat> <Etti-Balogun>
-  email:               <mail@domain.tld>
+  email:               <hebalogun@gmail.com>
   # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  # twitter:             <balotofi>
 
 # Add links to the sidebar.
 menu:
@@ -52,6 +52,10 @@ menu:
     url:               /example/
   - title:             Articles
     url:               /posts/
+  - title:             Public Speaking
+    url:               /speaking/    
+  - title:             YouTube
+    url:               https://www.youtube.com/@balotofi
   - title:             About
     url:               /about/
 
@@ -66,7 +70,7 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2021. All rights reserved.
+copyright:             © 2024. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
