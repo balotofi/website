@@ -1,18 +1,19 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
-author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+Husseinat:
+  name:              <Husseinat> <Etti-Balogun>
+  email:             <hebalogun@gmail.com>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+    Husseinat Etti-Balogun is an accomplished Space Systems Engineer currently pursuing an MEng at Kyushu Institute of Technology, Japan under the UNOOSA Post-graduate Study on Nano-Satellite Technologies Fellowship. 
+    With a background in satellite testing and software development, Husseinat serves as a Project Maintainer for the BIRDS Open Source Project and a Satellite Testing Engineer for the LEOPARD project, both at Kyutech. 
+    Her expertise extends to programming in Python and C, and she has a proven track record in technical writing, project management, and community coordination.
+
+    Husseinat has contributed significantly to international space initiatives, including roles as Executive Secretary at the Space Generation Advisory Council and Community Coordinator for LibreCube. 
+    She enjoys participating in events and speaking about her passions to whoever is willing to listen.
 
   # This photo will be used in the about section
   picture:
@@ -26,11 +27,11 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    twitter:         <balotofi>
+    github:          <balotofi>
+    # email:           <hebalogun@gmail.com>
     # rss:             https://<url>/feed.xml
-    # facebook:        <username>
+    # facebook:        <balotofi>
     # google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>
@@ -39,7 +40,7 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    # instagram:       <username>
+    # instagram:       <balotofi>
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -48,12 +49,12 @@ author1:
     # ello:            <username>
     # twitch:          <username>
     # steam:           <number>
-    # reddit:          <username>
-    # tumblr:          <username>
+    # reddit:          <balotofi>
+    # tumblr:          <balotofi>
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    # stackoverflow:   <number/username>
+    # stackoverflow:   <number/balotofi>
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
